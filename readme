@@ -1,0 +1,31 @@
+# university Network configuration:
+
+This document outlines a professional overview of a network configuration project designed to enhance web filtering capabilities and enable local hosting of the university's portal for evaluation purposes. The project aims to provide a secure and controlled online environment for the university community, blocking unwanted sites while allowing seamless access to the locally hosted portal.
+
+## Description
+
+An in-depth paragraph about your project and overview of use.
+
+## Getting Started
+
+### Dependencies
+
+* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
+* os:WINDOWS,LINUX,MAC
+*software:cisco packet tracer
+
+### Installing
+
+* cisco packet tracer-https://www.packettracernetwork.com/download/download-packet-tracer.html
+
+### Executing program
+
+* open the file with the cisco packet tracer 
+* run thee model
+
+
+
+## Authors
+
+Contributors names and contact info
+Uvan Shankar SJ (uvanshankar02@gmmail.com)
